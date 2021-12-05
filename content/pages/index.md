@@ -390,10 +390,6 @@ sections:
     title: Gallery
     subtitle: This is the subtitle
     images:
-      - type: ImageBlock
-        url: /images/dianne-ameter.jpg
-        altText: Image one
-        caption: Rotem
       - url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: altText of the image
@@ -403,6 +399,10 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/dianne-ameter.jpg
+        altText: Image one
+        caption: Rotem
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
         altText: Image two
