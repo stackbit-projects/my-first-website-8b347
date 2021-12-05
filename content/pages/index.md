@@ -385,7 +385,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
-  - colors: colors-a
+  - colors: colors-g
     elementId: ''
     title: Gallery
     subtitle: This is the subtitle
