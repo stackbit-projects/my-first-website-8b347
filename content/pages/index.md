@@ -393,7 +393,6 @@ sections:
       - type: ImageBlock
         url: /images/dianne-ameter.jpg
         altText: Image one
-        caption: Image one caption
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
         altText: Image two
