@@ -413,7 +413,7 @@ sections:
         caption: Image three caption
     spacing: 2
     columns: 4
-    aspectRatio: '16:9'
+    aspectRatio: '3:4'
     imageSizePx: 300
     showCaption: true
     enableHover: true
