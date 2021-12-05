@@ -291,9 +291,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: This is a title
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
     media:
       type: ImageBlock
       url: /images/Screen Shot 2021-12-05 at 10.06.03.png
