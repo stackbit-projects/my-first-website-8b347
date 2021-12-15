@@ -469,6 +469,7 @@ sections:
       - content/pages/blog/postlayout-in2sjbndh.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/post-two.md
       - content/pages/blog/post-three.md
     styles:
       self:
