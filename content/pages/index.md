@@ -532,6 +532,15 @@ sections:
         url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
         altText: Image three
         caption: Image three caption
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
     spacing: 2
     columns: 4
     aspectRatio: '3:4'
